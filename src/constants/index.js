@@ -88,7 +88,7 @@ import { BiLogoVisualStudio } from "react-icons/bi";
 
 import { RiGeminiFill } from "react-icons/ri";
 
-export const resumeLink ="https://drive.google.com/file/d/1ouQlE0DdXBOgH7KtF7FLHWgORxDxj_K5/view?usp=drivesdk";
+export const resumeLink ="https://drive.google.com/file/d/1FFNH9oacqt_9Mc5F2wrbVIE9JpipsdC0/view?usp=drivesdk";
 export const repoLink = "https://github.com/dharmateja01/personal-portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/panduga-dharma-teja-008b5a282";
@@ -594,3 +594,4 @@ export const includedRepos = [
   "zulip/zulip",
   "paritytech/polkadot-sdk",
 ];
+
