@@ -1,0 +1,23 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="black"/>
+
+  <!-- Left Bracket -->
+  <text x="80" y="150" font-family="Arial" font-size="180" fill="#2DEBFF" dominant-baseline="middle">
+    {
+  </text>
+
+  <!-- Right Bracket -->
+  <text x="480" y="150" font-family="Arial" font-size="180" fill="#2DEBFF" dominant-baseline="middle">
+    }
+  </text>
+
+  <!-- First Line -->
+  <text x="300" y="120" font-family="Arial" font-size="40" fill="white" text-anchor="middle" letter-spacing="2">
+    PANDUGA
+  </text>
+
+  <!-- Second Line -->
+  <text x="300" y="180" font-family="Arial" font-size="40" fill="white" text-anchor="middle" letter-spacing="2">
+    DHARMA TEJA
+  </text>
+</svg>
